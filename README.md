@@ -8,7 +8,13 @@ Pre-production: I have ordered the v0.1 PCBs from OSHPark and the rest of the pa
 
 ## BOM
 
+As of writing, the BOM comes out to $21.83 USD.
+
 Octopart: https://octopart.com/bom-tool/jktUOUBK
+
+## Size
+
+1.36 x 1.33 inch (34.6 x 33.8 mm) 2 layer board.
 
 ## Images
 
@@ -29,7 +35,3 @@ All images below are of V0.1.
 ## Usage
 
 TODO
-
-## Size
-
-1.36 x 1.33 inch (34.6 x 33.8 mm) 2 layer board.
